@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090c5440-a0b9-467b-aa04-4aaa11364e80" name="Changes" comment="Lab003 added">
-      <changelist_data name="Padma1501" email="padma.kuppela1501@outlook.com" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
+    <list default="true" id="090c5440-a0b9-467b-aa04-4aaa11364e80" name="Changes" comment="Lab004 added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10082024/Lab004.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724406698291</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lab004 added">
+      <option name="closed" value="true" />
+      <created>1724505115963</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724505115963</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -137,6 +144,7 @@
     <MESSAGE value="Lab002 added" />
     <MESSAGE value="Lab001 added" />
     <MESSAGE value="Lab003 added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab003 added" />
+    <MESSAGE value="Lab004 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab004 added" />
   </component>
 </project>
