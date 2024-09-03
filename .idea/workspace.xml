@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090c5440-a0b9-467b-aa04-4aaa11364e80" name="Changes" comment="All 10th august 2024 files are added">
+    <list default="true" id="090c5440-a0b9-467b-aa04-4aaa11364e80" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,25 +53,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab012.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab013.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001.executor": "Run",
+    "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Debug",
+    "Python.Lab013.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/GANESH/PycharmProjects/PyATB4xLearning/src/ex_10082024"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GANESH\PycharmProjects\PyATB4xLearning\src\ex_10082024" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.Lab001">
     <configuration name="Lab001" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
@@ -203,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724962363514</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="All 10th, 12h and 13th files are added august 2024">
+      <option name="closed" value="true" />
+      <created>1725383353690</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725383353690</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1725385587889</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725385587889</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,6 +248,8 @@
     <MESSAGE value="Lab004 added" />
     <MESSAGE value="All the files for the 10th aug are added" />
     <MESSAGE value="All 10th august 2024 files are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All 10th august 2024 files are added" />
+    <MESSAGE value="All 10th, 12h and 13th files are added august 2024" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
