@@ -4,12 +4,12 @@ this is multiple comment
 Here the code you write will not be executed
 Why this is used?
 
-Notes or important info if you want to give
+Ans: Notes or important info if you want to give
 """
 
 
 """
-we are discussing about data tupes
+we are discussing about data types
 int. float, bool, str
 
 Advance-> list, set , tuple , dict (in future )
@@ -25,8 +25,9 @@ Advance-> list, set , tuple , dict (in future )
 age = 20   # < class 'int' >
 print(type(age))
 
-name="padmaaa"    # <class 'str'
+name = "padmaaa"    # <class 'str'
 name2= 'padma'
 print(type(name))
 print(type(name2))
 print(name2)
+print(name)

@@ -1,8 +1,8 @@
 age = 65   # int
 print(age)
-# age -> variable name -> Identifier
+# age -> variable name ->It is also known as Identifier
 # = is a assignment operator (right to left)
-# 65 -> variable value - literal
+# 65 -> variable value -> It is also known as  literal
 
 age = 90
 print(age)      # it can print the latest values
