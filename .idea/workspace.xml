@@ -4,21 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="090c5440-a0b9-467b-aa04-4aaa11364e80" name="Changes" comment="13th august">
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab035.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Lab036.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17082024/lab027.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PyATB4xLearning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PyATB4xLearning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="090c5440-a0b9-467b-aa04-4aaa11364e80" name="Changes" comment="17th august all the files">
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Task 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Task 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Task 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17082024/Task4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_17082024/Lab034.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_17082024/Lab034.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +98,9 @@
     "Python.Lab034.executor": "Run",
     "Python.Lab035.executor": "Run",
     "Python.Lab036.executor": "Run",
+    "Python.Task 3.executor": "Run",
+    "Python.Task 5.executor": "Run",
+    "Python.Task4.executor": "Run",
     "Python.lab027.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -335,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736603554113</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="17th august all the files">
+      <option name="closed" value="true" />
+      <created>1737576743440</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737576743440</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -364,6 +367,7 @@
     <MESSAGE value="Lab020 added" />
     <MESSAGE value="Lab021 added" />
     <MESSAGE value="13th august" />
-    <option name="LAST_COMMIT_MESSAGE" value="13th august" />
+    <MESSAGE value="17th august all the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="17th august all the files" />
   </component>
 </project>
