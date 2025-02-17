@@ -39,10 +39,9 @@ print(2**3)
 # In Python, the ^ operator is the bitwise XOR (exclusive OR) operator.
 #
 # The ^ operator compares each bit of two integers. For each bit position:
-# The result bit is 1 if the corresponding bits of the operands are different
 # (one is 1 and the other is 0).
 # The result bit is 0 if the corresponding bits are the same (both 0 or both 1).
 a = 10   # binary: 1100
-b = 8   # binary: 0111
+b = 8 # binary: 0111
 result = a ^ b  # binary: 1011, which is 11 in decimal
-print(result)   # Output: 11
+print(result)   # Output: 2
