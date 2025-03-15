@@ -10,3 +10,17 @@
 # Use an if-else statement to cleassify the triangle.
 
 # browse for detailed pictures
+
+
+a = float(input("Enter the side a: "))
+b = float(input("Enter the side b: "))
+c = float(input("Enter the side c: "))
+
+if a == b == c:
+    print("Equilateral")
+elif a == b or b == c or a == c:
+    print("Isosceles")
+else:
+    print("Scalene")
+
+
